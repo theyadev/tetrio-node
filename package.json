@@ -1,0 +1,22 @@
+{
+  "name": "tetrio-node",
+  "version": "1.0.0",
+  "description": "TETR.IO api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "tetrio",
+    "tetr.io",
+    "tetris",
+    "api"
+  ],
+  "author": "Theya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
