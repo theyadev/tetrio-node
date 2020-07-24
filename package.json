@@ -1,6 +1,6 @@
 {
   "name": "tetrio-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TETR.IO api.",
   "main": "index.js",
   "scripts": {

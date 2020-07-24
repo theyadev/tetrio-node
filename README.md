@@ -68,6 +68,7 @@ Return a News array.
 tetrioApi.getNews().then((news) => {
       console.log(news[0])
 })
+```
 
 #### getReplayShort(options)
 Return the short id of a replay.
